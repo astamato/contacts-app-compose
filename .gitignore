@@ -83,3 +83,10 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+
+# Ignore Mac DS_Store files
+.DS_Store
+**/.DS_Store
+ .idea/
+.idea/*
